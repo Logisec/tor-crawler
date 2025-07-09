@@ -4,7 +4,6 @@ A Python-based tool for crawling the Tor network and analyzing `.onion` hidden s
 
 Developed and maintained by **Logisec** for security research, intelligence gathering, and darknet infrastructure mapping. Might add more later one for AI development and research.
 
----
 
 ## Overview
 
@@ -17,15 +16,12 @@ This tool performs the following:
 - Supports link graph generation and network mapping
 - Includes logging and configurable crawling depth/page limits
 
----
 
 ## Requirements
 
 - Python 3.8 or higher
 - Tor service installed and running (`tor.exe` or system service)
 - Access to the Tor network (default proxy: `127.0.0.1:9050`)
-
----
 
 ## Installation
 
@@ -36,8 +32,6 @@ pip install -r requirements.txt
 ```
 
 > ⚠ If you're on Windows, install the [Tor Expert Bundle](https://www.torproject.org/download/tor/), extract it, and run `tor.exe` manually.
-
----
 
 ## Usage
 
@@ -68,8 +62,6 @@ python main.py \
 | `--data-dir`  | Output directory for crawl results        | `./data` |
 | `--log-level` | Logging verbosity (DEBUG, INFO, etc)      | `INFO`   |
 
----
-
 ## Output Structure
 
 Each crawl creates the following:
@@ -87,13 +79,10 @@ Each crawl creates the following:
 * `crawler.log`
   Detailed log file for debugging and audit trails
 
----
 
 ## Use Cases
 
 * Whatever makes you happy!
-
----
 
 ## Disclaimer
 
@@ -109,13 +98,10 @@ Logisec does not accept liability if you use this code to break things - includi
 
 You are responsible for what you do with this.
 
----
 ## Provided By
 
 **Logisec** - Independent cybersecurity research and tool development.
 [https://logisec.net](https://logisec.net)
-
----
 
 ## License
 
