@@ -97,7 +97,7 @@ Each crawl creates the following:
 
 ## Disclaimer
 
-Let’s be honest — nobody reads disclaimers. But here’s ours anyway:
+Let’s be honest - nobody reads disclaimers. But here’s ours anyway:
 
 This project is **intended solely for research, education, and legal security analysis**. It’s your responsibility to:
 
@@ -105,18 +105,18 @@ This project is **intended solely for research, education, and legal security an
 * Avoid accessing anything you shouldn’t
 * Not do anything stupid with this tool
 
-Logisec does not accept liability if you use this code to break things — including your own system. Don’t crawl illegal content. Don’t generate traffic you can’t explain. Don’t brag about it on Reddit.
+Logisec does not accept liability if you use this code to break things - including your own system. Don’t crawl illegal content. Don’t generate traffic you can’t explain. Don’t brag about it on Reddit.
 
 You are responsible for what you do with this.
 
 ---
 ## Provided By
 
-**Logisec** — Independent cybersecurity research and tool development.
+**Logisec** - Independent cybersecurity research and tool development.
 [https://logisec.net](https://logisec.net)
 
 ---
 
 ## License
 
-MIT License — use it, modify it, break it, improve it. Just don’t remove the name.
+MIT License - use it, modify it, break it, improve it. Just don’t remove the name.
